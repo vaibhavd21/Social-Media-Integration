@@ -33,6 +33,7 @@ import de.hdodenhof.circleimageview.CircleImageView;
 
 public class MainActivity extends AppCompatActivity {
 
+
     private LoginButton loginButton;
     private CircleImageView circleImageView;
     private TextView txtName,txtEmail;
